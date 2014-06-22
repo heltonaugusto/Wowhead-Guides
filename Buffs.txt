@@ -29,7 +29,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 [toggler id=WoDBuffs hidden]NEW: WoD Buffs and Debuffs with all new pets spells.[/toggler]
 
 [div id=WoDBuffs hidden]
-	[br][hr][br]
+	[hr]
 
 
 	[div float=left]
@@ -37,7 +37,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[img src=http://wowimg.zamimg.com/uploads/guide/images/3877.jpg height=100]
 		[/span]
 	[/div]
-	[br][br][br]
+	[br][br]
 	[h2][img src=http://hydra-media.cursecdn.com/wowpedia.org/7/71/WoD-Logo-Small.png border=0] Buffs[/h2]
 
 	[tabs name="buffsWoD"]
