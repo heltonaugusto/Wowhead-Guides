@@ -550,7 +550,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[url=item=79257][icon name=inv_inscription_armorscroll03][/icon][/url][spell=111922 domain=wod]
 					[/td]
 					[td width=50% valign=top]
-						[img icon=ability_hunter_pet_wasp width=32 float=left] [color=c3]Dragonfly[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=spell_beastmaster_rylak width=32 float=left] [color=c3]Rylak[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
 						[spell=160003 domain=wod]
 						
 						[img icon=ability_mount_mountainram width=32 float=left] [color=c3]Goat[/color]
@@ -670,7 +670,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[spell=116956 domain=wod]
 					[/td]
 					[td width=50% valign=top]
-						[img icon=ability_hunter_pet_wasp width=32 float=left] [color=c3]Dragonfly[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=spell_beastmaster_rylak width=32 float=left] [color=c3]Rylak[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
 						[spell=160003 domain=wod]
 
 						[img icon=ability_hunter_pet_sporebat width=32 float=left] [color=c3]Sporebat[/color]
