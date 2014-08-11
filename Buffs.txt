@@ -1,11 +1,16 @@
-[db=www]
-[img src=http://wowimg.zamimg.com/uploads/guide/images/3876.jpg height=200 float=right]
+[quote float=right]
+	[b]Many thanks to [url=https://github.com/heltonaugusto/Wowhead-Guides/]GitHub[/url] editors![/b]
+	[ul]
+		[li][url=/user=Senka]Senka[/url][/li]
+	[/ul]
+	[img src=http://wowimg.zamimg.com/uploads/guide/images/3876.jpg height=200]
+[/quote]
 
-Here we have listed all Buffs and Debuffs for [img src=http://wowimg.zamimg.com/images/icons/mop.png border=0] Mists of Pandaria, according to the official blog post quoted at the end.
+Here we have listed all Buffs and Debuffs for [img src=http://wowimg.zamimg.com/images/icons/mop.png border=0] Mists of Pandaria.
 
-Keep in mind that some of this design have alredy changed on beta, it's difficult to track all of them, but I'll try to keep this up-to-date. I welcome any suggestions/corrections.
+I welcome any suggestions/corrections in comments and at [url=https://github.com/heltonaugusto/Wowhead-Guides/]GitHub[/url].
 
-If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this guide[/url] from Verdie.
+If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this guide[/url] from [url=/user=Verdie]Verdie[/url].
 
 [tooltip name=Example]
 	[table width=100% cellpadding=0 cellspacing=0]
@@ -22,10 +27,10 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 	[/table]
 	Raid Effectiveness increased by 100%.
 [/tooltip]
-[tooltip name=blood]Blood[/tooltip][tooltip name=frost]Frost[/tooltip][tooltip name=unholy]Unholy[/tooltip][tooltip name=balance]Balance[/tooltip][tooltip name=feral]Feral[/tooltip][tooltip name=guardian]Guardian[/tooltip][tooltip name=restoration_druid]Restoration[/tooltip][tooltip name=beast_mastery]Beast Mastery[/tooltip][tooltip name=marksmanship]Marksmanship[/tooltip][tooltip name=survival]Survival[/tooltip][tooltip name=arcane]Arcane[/tooltip][tooltip name=fire]Fire[/tooltip][tooltip name=frost]Frost[/tooltip][tooltip name=brewmaster]Brewmaster[/tooltip][tooltip name=mistweaver]Mistweaver[/tooltip][tooltip name=windwalker]Windwalker[/tooltip][tooltip name=holy_paladin]Holy[/tooltip][tooltip name=protection]Protection[/tooltip][tooltip name=retribution]Retribution[/tooltip][tooltip name=discipline]Discipline[/tooltip][tooltip name=holy_priest]Holy[/tooltip][tooltip name=shadow]Shadow[/tooltip][tooltip name=assassination]Assassination[/tooltip][tooltip name=combat]Combat[/tooltip][tooltip name=subtlety]Subtlety[/tooltip][tooltip name=elemental]Elemental[/tooltip][tooltip name=enhancement]Enhancement[/tooltip][tooltip name=restoration_shaman]Restoration[/tooltip][tooltip name=affliction]Affliction[/tooltip][tooltip name=demonology]Demonology[/tooltip][tooltip name=destruction]Destruction[/tooltip][tooltip name=arms]Arms[/tooltip][tooltip name=fury]Fury[/tooltip][tooltip name=protection]Protection[/tooltip]
+[tooltip name=blood]Blood[/tooltip][tooltip name=frost]Frost[/tooltip][tooltip name=unholy]Unholy[/tooltip][tooltip name=frost_unholy]Frost and Unholy[/tooltip][tooltip name=balance]Balance[/tooltip][tooltip name=feral]Feral[/tooltip][tooltip name=guardian]Guardian[/tooltip][tooltip name=feral_guardian]Feral and Guardian[/tooltip][tooltip name=restoration_druid]Restoration[/tooltip][tooltip name=beast_mastery]Beast Mastery[/tooltip][tooltip name=marksmanship]Marksmanship[/tooltip][tooltip name=survival]Survival[/tooltip][tooltip name=arcane]Arcane[/tooltip][tooltip name=fire]Fire[/tooltip][tooltip name=frost]Frost[/tooltip][tooltip name=brewmaster]Brewmaster[/tooltip][tooltip name=mistweaver]Mistweaver[/tooltip][tooltip name=windwalker]Windwalker[/tooltip][tooltip name=holy_paladin]Holy[/tooltip][tooltip name=protection]Protection[/tooltip][tooltip name=retribution]Retribution[/tooltip][tooltip name=discipline]Discipline[/tooltip][tooltip name=holy_priest]Holy[/tooltip][tooltip name=shadow]Shadow[/tooltip][tooltip name=assassination]Assassination[/tooltip][tooltip name=combat]Combat[/tooltip][tooltip name=subtlety]Subtlety[/tooltip][tooltip name=elemental]Elemental[/tooltip][tooltip name=enhancement]Enhancement[/tooltip][tooltip name=restoration_shaman]Restoration[/tooltip][tooltip name=affliction]Affliction[/tooltip][tooltip name=demonology]Demonology[/tooltip][tooltip name=destruction]Destruction[/tooltip][tooltip name=arms]Arms[/tooltip][tooltip name=fury]Fury[/tooltip][tooltip name=protection]Protection[/tooltip]
 
 
-
+[br]
 [div float=left]
 	[span tooltip=Example]
 		[img src=http://wowimg.zamimg.com/uploads/guide/images/3877.jpg height=100]
@@ -43,21 +48,21 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[tr]
 				[td width=50%]
 					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color]
-					[spell=1126 domain=www]
+					[spell=1126]
 
 					[img icon=class_monk width=32 float=left] [color=c10]Monk[/color]
-					[spell=115921 domain=www]
+					[spell=115921]
 
 					[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color]
-					[spell=20217 domain=www]
+					[spell=20217]
 				[/td]
 				[td width=50% valign=top]
-					[img icon=ability_hunter_pet_spider width=32 float=left] [color=c3]Shale Spider[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=90363 domain=www]
+					[img icon=ability_hunter_pet_spider width=32 float=left] [color=c3]Shale Spider[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=90363]
 
 					[br][br]
 					[img icon=inv_misc_armorkit_17 width=32 float=left] [color=q7]Leatherworking ([b]4%[/b])[/color]
-					[url=item=49633][icon name=inv_misc_drum_03][/icon][/url][spell=69378 domain=www]
+					[url=item=49633][icon name=inv_misc_drum_03]&nbsp;[/icon][/url][spell=69378]
 				[/td]
 			[/tr]
 		[/table]
@@ -71,21 +76,21 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[tr]
 				[td width=50% valign=top]
 					[img icon=class_priest width=32 float=left] [color=c5]Priest[/color]
-					[spell=21562 domain=www]
+					[spell=21562]
 
 					[img icon=class_warlock width=32 float=left] [color=c9]Warlock[/color]
-					[spell=109773 domain=www]
+					[spell=109773]
 
 					[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color]
-					[spell=469 domain=www]
+					[spell=469]
 				[/td]
 				[td width=50% valign=top]
-					[img icon=ability_hunter_pet_silithid width=32 float=left] [color=c3]Silithid[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=90364 domain=www]
+					[img icon=ability_hunter_pet_silithid width=32 float=left] [color=c3]Silithid[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=90364]
 
 					[br][br]
 					[img icon=inv_inscription_tradeskill01 width=32 float=left] [color=q7]Inscription ([b]8%[/b])[/color]
-					[url=item=79257][icon name=inv_inscription_armorscroll03][/icon][/url][spell=111922 domain=www]
+					[url=item=79257][icon name=inv_inscription_armorscroll03]&nbsp;[/icon][/url][spell=111922]
 				[/td]
 			[/tr]
 		[/table]
@@ -99,13 +104,13 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 		[tr]
 			[td width=50%]
 				[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color]
-				[spell=57330 domain=www]
+				[spell=57330]
 
 				[img icon=class_hunter width=32 float=left] [color=c3]Hunter[/color]
-				[spell=19506 domain=www]
+				[spell=19506]
 
 				[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color]
-				[spell=6673 domain=www]
+				[spell=6673]
 			[/td]
 		[/tr]
 	[/table]
@@ -119,17 +124,17 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[tr]
 				[td width=50%]
 					[img icon=class_mage width=32 float=left] [color=c8]Mage[/color]
-					[spell=1459 domain=www]/[spell=61316 domain=www]
+					[spell=1459]/[spell=61316]
 
 					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color]
-					[spell=77747 domain=www]
+					[spell=77747]
 
 					[img icon=class_warlock width=32 float=left] [color=c9]Warlock[/color]
-					[spell=109773 domain=www]
+					[spell=109773]
 				[/td]
 				[td width=50% valign=top]
-					[img icon=inv_pet_waterstrider width=32 float=left] [color=c3]Waterstrider[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=126309 domain=www]
+					[img icon=inv_pet_waterstrider width=32 float=left] [color=c3]Waterstrider[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=126309]
 				[/td]
 			[/tr]
 		[/table]
@@ -142,21 +147,21 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 		[table width=100%]
 			[tr]
 				[td width=50% valign=top]
-					[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [icon name=spell_deathknight_frostpresence]Frost[/icon] [icon name=spell_deathknight_unholypresence]Unholy[/icon]
-					[spell=55610 domain=www] 
+					[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [span tooltip=frost][icon name=spell_deathknight_frostpresence]&nbsp;[/icon][/span] [span tooltip=unholy][icon name=spell_deathknight_unholypresence]&nbsp;[/icon][/span]
+					[spell=55610] 
 
 					[img icon=class_rogue width=32 float=left] [color=c4]Rogue[/color]
-					[spell=113742 domain=www]
+					[spell=113742]
 
-					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color] [icon name=spell_shaman_improvedstormstrike]Enhancement[/icon] 
-					[spell=30809 domain=www]
+					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color] [span tooltip=enhancement][icon name=spell_shaman_improvedstormstrike]&nbsp;[/icon][/span] 
+					[spell=30809]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_hyena width=32 float=left] [color=c3]Hyena[/color]
-					[spell=128432 domain=www]
+					[spell=128432]
 
 					[img icon=spell_nature_guardianward width=32 float=left] [color=c3]Serpent[/color]
-					[spell=128433 domain=www]
+					[spell=128433]
 				[/td]
 			[/tr]
 		[/table]
@@ -169,18 +174,18 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 		[table width=100%]
 			[tr]
 				[td width=50% valign=top]
-					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [icon name=spell_nature_starfall]Balance[/icon]
-					[url=spell=24858][icon name=spell_nature_forceofnature][/icon][/url][spell=24907 domain=www] 
+					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [span tooltip=balance][icon name=spell_nature_starfall]&nbsp;[/icon][/span]
+					[url=spell=24858][icon name=spell_nature_forceofnature]&nbsp;[/icon][/url][spell=24907] 
 
-					[img icon=class_priest width=32 float=left] [color=c5]Priest[/color] [icon name=spell_shadow_shadowwordpain]Shadow[/icon]
-					[url=spell=15473][icon name=spell_shadow_shadowform][/icon][/url][spell=49868 domain=www] 
+					[img icon=class_priest width=32 float=left] [color=c5]Priest[/color] [span tooltip=shadow][icon name=spell_shadow_shadowwordpain]&nbsp;[/icon][/span]
+					[url=spell=15473][icon name=spell_shadow_shadowform]&nbsp;[/icon][/url][spell=49868] 
 
-					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color] [icon name=spell_nature_lightning]Elemental[/icon]
-					[spell=51470 domain=www]
+					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color] [span tooltip=elemental][icon name=spell_nature_lightning]&nbsp;[/icon][/span]
+					[spell=51470]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_sporebat width=32 float=left] [color=c3]Sporebat[/color]
-					[spell=135678 domain=www]
+					[spell=135678]
 				[/td]
 			[/tr]
 		[/table]
@@ -193,30 +198,30 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 		[table width=100%]
 			[tr]
 				[td width=50% valign=top]
-					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [icon name=ability_racial_bearform]Guardian [/icon] [icon name=ability_druid_catform]Feral[/icon]
-					[spell=17007 domain=www] 
+					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [span tooltip=feral][icon name=ability_druid_catform]&nbsp;[/icon][/span] [span tooltip=guardian][icon name=ability_racial_bearform]&nbsp;[/icon][/span] 
+					[spell=17007] 
 
 					[img icon=class_mage width=32 float=left] [color=c8]Mage[/color]
-					[spell=1459 domain=www]/[spell=61316 domain=www]
+					[spell=1459]/[spell=61316]
 
-					[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [icon name=spell_monk_windwalker_spec]Windwalker[/icon]
-					[spell=116781 domain=www]
+					[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [span tooltip=windwalker][icon name=spell_monk_windwalker_spec]&nbsp;[/icon][/span]
+					[spell=116781]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=trade_archaeology_whitehydrafigurine width=32 float=left] [color=c3]Hydra[/color]
-					[spell=97229 domain=www]
+					[spell=97229]
 
 					[img icon=ability_hunter_pet_wolf width=32 float=left] [color=c3]Wolf[/color]
-					[spell=24604 domain=www]
+					[spell=24604]
 
-					[img icon=ability_hunter_pet_devilsaur width=32 float=left] [color=c3]Devilsaur[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=90309 domain=www]
+					[img icon=ability_hunter_pet_devilsaur width=32 float=left] [color=c3]Devilsaur[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=90309]
 
-					[img icon=achievement_moguraid_01 width=32 float=left] [color=c3]Quilen[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=126373 domain=www]
+					[img icon=achievement_moguraid_01 width=32 float=left] [color=c3]Quilen[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=126373]
 
-					[img icon=inv_pet_waterstrider width=32 float=left] [color=c3]Waterstrider[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=126309 domain=www]
+					[img icon=inv_pet_waterstrider width=32 float=left] [color=c3]Waterstrider[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=126309]
 				[/td]
 			[/tr]
 		[/table]
@@ -230,17 +235,17 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[tr]
 				[td width=50% valign=top]
 					[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color]
-					[spell=19740 domain=www]
+					[spell=19740]
 
 					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color]
-					[spell=116956 domain=www]
+					[spell=116956]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_cat width=32 float=left] [color=c3]Cat[/color]
-					[spell=93435 domain=www]
+					[spell=93435]
 
-					[img icon=ability_druid_primalprecision width=32 float=left] [color=c3]Spirit Beast[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=128997 domain=www]
+					[img icon=ability_druid_primalprecision width=32 float=left] [color=c3]Spirit Beast[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=128997]
 				[/td]
 			[/tr]
 		[/table]
@@ -254,17 +259,17 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[tr]
 				[td width=50%]
 					[img icon=class_mage width=32 float=left] [color=c8]Mage[/color]
-					[spell=80353 domain=www]
+					[spell=80353]
 
 					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color]
-					[spell=2825 domain=www]/[spell=32182 domain=www]
+					[spell=2825]/[spell=32182]
 				[/td]
 				[td width=50% valign=top]
-					[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=90355 domain=www]
+					[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=90355]
 
 					[img icon=inv_misc_armorkit_17 width=32 float=left] [color=q7]Leatherworking ([b]25%[/b])[/color]
-					[url=item=102351][icon name=inv_misc_drum_05][/icon][/url][spell=146555 domain=www]
+					[url=item=102351][icon name=inv_misc_drum_05]&nbsp;[/icon][/url][spell=146555]
 				[/td]
 			[/tr]
 		[/table]
@@ -290,20 +295,20 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[tr]
 				[td width=50% valign=top]
 					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color]
-					[spell=770 domain=www]
+					[spell=770]
 
 					[img icon=class_rogue width=32 float=left] [color=c4]Rogue[/color]
-					[spell=8647 domain=www]
+					[spell=8647]
 
 					[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color]
-					[spell=7386 domain=www]
+					[spell=7386]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_tallstrider width=32 float=left] [color=c3]Tallstrider[/color]
-					[spell=50285 domain=www]
+					[spell=50285]
 
 					[img icon=ability_hunter_pet_raptor width=32 float=left] [color=c3]Raptor[/color]
-					[spell=50498 domain=www]
+					[spell=50498]
 				[/td]
 			[/tr]
 		[/table]
@@ -316,27 +321,27 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 		[table width=100%]
 			[tr]
 				[td width=50% valign=top]
-					[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [icon name=spell_deathknight_frostpresence]Frost[/icon] [icon name=spell_deathknight_unholypresence]Unholy[/icon]
-					[spell=81328 domain=www] [spell=51160 domain=www]
+					[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [span tooltip=frost][icon name=spell_deathknight_frostpresence]&nbsp;[/icon][/span] [span tooltip=unholy][icon name=spell_deathknight_unholypresence]&nbsp;[/icon][/span]
+					[spell=81328] [spell=51160]
 
-					[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color] [icon name=spell_holy_auraoflight]Retribution[/icon]
-					[spell=111529 domain=www]
+					[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color] [span tooltip=retribution][icon name=spell_holy_auraoflight]&nbsp;[/icon][/span]
+					[spell=111529]
 
-					[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color] [icon name=ability_warrior_savageblow]Arms[/icon] [icon name=ability_warrior_innerrage]Fury[/icon]
-					[spell=86346 domain=www]
+					[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color] [span tooltip=arms][icon name=ability_warrior_savageblow]&nbsp;[/icon][/span] [span tooltip=fury][icon name=ability_warrior_innerrage]&nbsp;[/icon][/span]
+					[spell=86346]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_boar width=32 float=left] [color=c3]Boar[/color]
-					[spell=35290 domain=www]
+					[spell=35290]
 
 					[img icon=ability_hunter_pet_ravager width=32 float=left] [color=c3]Ravager[/color]
-					[spell=50518 domain=www]
+					[spell=50518]
 
-					[img icon=ability_hunter_pet_rhino width=32 float=left] [color=c3]Rhino[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=57386 domain=www]
+					[img icon=ability_hunter_pet_rhino width=32 float=left] [color=c3]Rhino[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=57386]
 
-					[img icon=ability_hunter_pet_worm width=32 float=left] [color=c3]Worm[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=55749 domain=www]
+					[img icon=ability_hunter_pet_worm width=32 float=left] [color=c3]Worm[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=55749]
 				[/td]
 			[/tr]
 		[/table]
@@ -350,17 +355,17 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[tr]
 				[td width=50% valign=top]
 					[img icon=class_rogue width=32 float=left] [color=c4]Rogue[/color]
-					[spell=58410 domain=www]
+					[spell=58410]
 
 					[img icon=class_warlock width=32 float=left] [color=c9]Warlock[/color]
-					[spell=1490 domain=www]
+					[spell=1490]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_dragonhawk width=32 float=left] [color=c3]Dragonhawk[/color]
-					[spell=34889 domain=www]
+					[spell=34889]
 
 					[img icon=ability_hunter_pet_windserpent  width=32 float=left] [color=c3]Wind Serpent[/color]
-					[spell=24844 domain=www]
+					[spell=24844]
 				[/td]
 			[/tr]
 		[/table]
@@ -373,33 +378,33 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 		[table width=100%]
 			[tr]
 				[td width=50% valign=top]
-					[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [icon name=spell_deathknight_bloodpresence]Blood[/icon]
-					[spell=81132 domain=www]
+					[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [span tooltip=blood][icon name=spell_deathknight_bloodpresence]&nbsp;[/icon][/span]
+					[spell=81132]
 
-					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [icon name=ability_druid_catform]Feral[/icon] [icon name=ability_racial_bearform]Guardian [/icon]
-					[spell=106830 domain=www] [spell=77758 domain=www]
+					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [span tooltip=feral][icon name=ability_druid_catform]&nbsp;[/icon][/span] [span tooltip=guardian][icon name=ability_racial_bearform]&nbsp;[/icon][/span] 
+					[spell=106830] [spell=77758]
 
-					[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [icon name=spell_monk_brewmaster_spec]Brewmaster[/icon]
-					[spell=121253 domain=www]
+					[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [span tooltip=brewmaster][icon name=spell_monk_brewmaster_spec]&nbsp;[/icon][/span]
+					[spell=121253]
 
-					[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color] [icon name=ability_paladin_shieldofthetemplar]Protection[/icon] [icon name=spell_holy_auraoflight]Retribution[/icon]
-					[spell=53595 domain=www]
+					[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color] [span tooltip=protection][icon name=ability_paladin_shieldofthetemplar]&nbsp;[/icon][/span] [span tooltip=retribution][icon name=spell_holy_auraoflight]&nbsp;[/icon][/span]
+					[spell=53595]
 
 					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color]
-					[spell=8042 domain=www]
+					[spell=8042]
 
 					[img icon=class_warlock width=32 float=left] [color=c9]Warlock[/color]
-					[spell=109466 domain=www]
+					[spell=109466]
 
 					[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color]
-					[spell=6343 domain=www]
+					[spell=6343]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_bear width=32 float=left] [color=c3]Bear[/color]
-					[spell=50256 domain=www]
+					[spell=50256]
 
 					[img icon=ability_hunter_pet_vulture width=32 float=left] [color=c3]Carrion Bird[/color]
-					[spell=24423 domain=www]
+					[spell=24423]
 				[/td]
 			[/tr]
 		[/table]
@@ -413,29 +418,29 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[tr]
 				[td width=50% valign=top]
 					[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color]
-					[spell=73975 domain=www]
+					[spell=73975]
 
-					[img icon=class_mage width=32 float=left] [color=c8]Mage[/color] [icon name=spell_holy_magicalsentry]Arcane[/icon]
-					[spell=31589 domain=www]
+					[img icon=class_mage width=32 float=left] [color=c8]Mage[/color] [span tooltip=arcane][icon name=spell_holy_magicalsentry]&nbsp;[/icon][/span]
+					[spell=31589]
 
 					[img icon=class_rogue width=32 float=left] [color=c4]Rogue[/color]
-					[spell=5761 domain=www]
+					[spell=5761]
 
 					[img icon=class_warlock width=32 float=left] [color=c9]Warlock[/color]
-					[spell=109466 domain=www]
+					[spell=109466]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_sporebat width=32 float=left] [color=c3]Sporebat[/color]
-					[spell=50274 domain=www]
+					[spell=50274]
 
 					[img icon=ability_hunter_aspectofthefox width=32 float=left] [color=c3]Fox[/color]
-					[spell=90314 domain=www]
+					[spell=90314]
 
 					[img icon=ability_mount_mountainram width=32 float=left] [color=c3]Goat[/color]
-					[spell=126402 domain=www]
+					[spell=126402]
 
-					[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=58604 domain=www]
+					[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=58604]
 				[/td]
 			[/tr]
 		[/table]
@@ -448,38 +453,39 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 		[table width=100%]
 			[tr]
 				[td width=50% valign=top]
-					[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color] [icon name=ability_warrior_savageblow]Arms[/icon] [icon name=ability_warrior_innerrage]Fury[/icon]
-					[spell=12294 domain=www] [spell=100130 domain=www]
+					[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color] [span tooltip=arms][icon name=ability_warrior_savageblow]&nbsp;[/icon][/span] [span tooltip=fury][icon name=ability_warrior_innerrage]&nbsp;[/icon][/span]
+					[spell=12294] [spell=100130]
 
 					[img icon=class_rogue width=32 float=left] [color=c4]Rogue[/color]
-					[spell=8679 domain=www]
+					[spell=8679]
 
 					[img icon=class_hunter width=32 float=left] [color=c3]Hunter[/color]
-					[spell=82654 domain=www]
+					[spell=82654]
 
-					[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [icon name=spell_monk_windwalker_spec]Windwalker[/icon]
-					[spell=107428 domain=www]
+					[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [span tooltip=windwalker][icon name=spell_monk_windwalker_spec]&nbsp;[/icon][/span]
+					[spell=107428]
 
 					[img icon=class_warlock width=32 float=left] [color=c9]Warlock[/color]
-					[spell=115625 domain=www]/[spell=30213 domain=www](10%)
+					[spell=115625]/[spell=30213](10%)
 				[/td]
 				[td width=50% valign=top]
-					[img icon=ability_hunter_pet_devilsaur  width=32 float=left] [color=c3]Devilsaur[/color] [icon name=ability_hunter_beastmastery]Beast Mastery[/icon]
-					[spell=54680 domain=www]
+					[img icon=ability_hunter_pet_devilsaur  width=32 float=left] [color=c3]Devilsaur[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=54680]
 				[/td]
 			[/tr]
 		[/table]
 	[/tab]
 [/tabs]
 
-[br][br][hr][br]
+[br][br][hr]
+[div]
+[img src=http://upload.wikimedia.org/wikipedia/en/4/4c/World_of_Warcraft_Warlords_of_Draenor.png border=0 height=100 float=left]
+[b][color=q10]Edit: Click the link below for [img src=http://hydra-media.cursecdn.com/wowpedia.org/7/71/WoD-Logo-Small.png border=0] Warlords of Draenor table.[/color][/b]
+[toggler id=WoDBuffs hidden]NEW: WoD Buffs with all new pets spells.[/toggler]
+[/div]
 
-[color=q10]Edit: I already updated the guide to reflect the changes of [img src=http://hydra-media.cursecdn.com/wowpedia.org/7/71/WoD-Logo-Small.png border=0] Warlords of Draenor. You can see it in the link below.[/color]
-[toggler id=WoDBuffs hidden]NEW: WoD Buffs and Debuffs with all new pets spells.[/toggler]
-
-[div id=WoDBuffs hidden]
+[div id=WoDBuffs hidden clear=both]
 	[hr]
-
 
 	[div float=left]
 		[span tooltip=Example]
@@ -510,7 +516,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 
 						[br][br]
 						[img icon=inv_misc_armorkit_17 width=32 float=left] [color=q7]Leatherworking ([b]4%[/b])[/color]
-						[url=item=49633][icon name=inv_misc_drum_03][/icon][/url][spell=69378 domain=wod]
+						[url=item=49633][icon name=inv_misc_drum_03]&nbsp;[/icon][/url][spell=69378 domain=wod]
 					[/td]
 					[td width=50% valign=top]
 						[img icon=inv_jewelry_necklace_22 width=24 float=left] [color=c3]Dog[/color]
@@ -519,10 +525,10 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[img icon=ability_hunter_pet_gorilla width=24 float=left] [color=c3]Gorilla[/color]
 						[spell=160017 domain=wod]
 
-						[img icon=ability_hunter_pet_spider width=24 float=left] [color=c3]Shale Spider[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_spider width=24 float=left] [color=c3]Shale Spider[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=90363 domain=wod]
 
-						[img icon=ability_hunter_pet_worm width=24 float=left] [color=c3]Worm[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_worm width=24 float=left] [color=c3]Worm[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=160077 domain=wod]
 					[/td]
 				[/tr]
@@ -547,16 +553,16 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 
 						[br][br]
 						[img icon=inv_inscription_tradeskill01 width=32 float=left] [color=q7]Inscription ([b]8%[/b])[/color]
-						[url=item=79257][icon name=inv_inscription_armorscroll03][/icon][/url][spell=111922 domain=wod]
+						[url=item=79257][icon name=inv_inscription_armorscroll03]&nbsp;[/icon][/url][spell=111922 domain=wod]
 					[/td]
 					[td width=50% valign=top]
-						[img icon=spell_beastmaster_rylak width=32 float=left] [color=c3]Rylak[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=spell_beastmaster_rylak width=32 float=left] [color=c3]Rylak[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=160003 domain=wod]
 						
 						[img icon=ability_mount_mountainram width=32 float=left] [color=c3]Goat[/color]
 						[spell=160014 domain=wod]
 
-						[img icon=ability_hunter_pet_silithid width=32 float=left] [color=c3]Silithid[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_silithid width=32 float=left] [color=c3]Silithid[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=90364 domain=wod]
 					[/td]
 				[/tr]
@@ -598,10 +604,10 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[spell=109773 domain=wod]
 					[/td]
 					[td width=50% valign=top]
-						[img icon=ability_hunter_pet_silithid width=32 float=left] [color=c3]Silithid[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_silithid width=32 float=left] [color=c3]Silithid[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=90364 domain=wod]
 
-						[img icon=inv_pet_waterstrider width=32 float=left] [color=c3]Waterstrider[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=inv_pet_waterstrider width=32 float=left] [color=c3]Waterstrider[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=126309 domain=wod]
 					[/td]
 				[/tr]
@@ -615,16 +621,16 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[table width=100%]
 				[tr]
 					[td width=50% valign=top]
-						[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [icon name=spell_deathknight_frostpresence]Frost[/icon] [icon name=spell_deathknight_unholypresence]Unholy[/icon]
+						[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [span tooltip=frost][icon name=spell_deathknight_frostpresence]&nbsp;[/icon][/span] [span tooltip=unholy][icon name=spell_deathknight_unholypresence]&nbsp;[/icon][/span]
 						[spell=55610 domain=wod]
 						
 						[img icon=class_druid width=32 float=left] [color=c11]Druid[/color]
 						[spell=1126 domain=wod]
 
-						[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color] [icon name=spell_holy_auraoflight]Retribution[/icon]
+						[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color] [span tooltip=retribution][icon name=spell_holy_auraoflight]&nbsp;[/icon][/span]
 						[spell=167187 domain=wod]
 
-						[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color] [icon name=ability_rogue_eviscerate]Arms[/icon] [icon name=ability_warrior_innerrage]Fury[/icon]
+						[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color] [span tooltip=arms][icon name=ability_rogue_eviscerate]&nbsp;[/icon][/span] [span tooltip=fury][icon name=ability_warrior_innerrage]&nbsp;[/icon][/span]
 						[spell=167188 domain=wod]
 					[/td]
 					[td width=50% valign=top]
@@ -640,10 +646,10 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[img icon=ability_hunter_pet_ravager width=32 float=left] [color=c3]Ravager[/color]
 						[spell=50518 domain=wod]
 						
-						[img icon=ability_hunter_pet_rhino width=32 float=left] [color=c3]Rhino[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_rhino width=32 float=left] [color=c3]Rhino[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=57386 domain=wod]
 						
-						[img icon=ability_hunter_pet_worm width=32 float=left] [color=c3]Worm[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_worm width=32 float=left] [color=c3]Worm[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=160077 domain=wod]
 					[/td]
 				[/tr]
@@ -657,11 +663,11 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[table width=100%]
 				[tr]
 					[td width=50% valign=top]
-						[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [icon name=spell_deathknight_frostpresence]Frost[/icon] [icon name=spell_deathknight_unholypresence]Unholy[/icon]
+						[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [span tooltip=frost][icon name=spell_deathknight_frostpresence]&nbsp;[/icon][/span] [span tooltip=unholy][icon name=spell_deathknight_unholypresence]&nbsp;[/icon][/span]
 						[spell=55610 domain=wod] 
 
-						[img icon=class_priest width=32 float=left] [color=c5]Priest[/color] [icon name=spell_shadow_shadowwordpain]Shadow[/icon]
-						[url=spell=15473][icon name=spell_shadow_shadowform][/icon][/url][spell=49868 domain=wod]
+						[img icon=class_priest width=32 float=left] [color=c5]Priest[/color] [span tooltip=shadow][icon name=spell_shadow_shadowwordpain]&nbsp;[/icon][/span]
+						[url=spell=15473][icon name=spell_shadow_shadowform]&nbsp;[/icon][/url][spell=49868 domain=wod]
 
 						[img icon=class_rogue width=32 float=left] [color=c4]Rogue[/color]
 						[spell=113742 domain=wod]
@@ -670,7 +676,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[spell=116956 domain=wod]
 					[/td]
 					[td width=50% valign=top]
-						[img icon=spell_beastmaster_rylak width=32 float=left] [color=c3]Rylak[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=spell_beastmaster_rylak width=32 float=left] [color=c3]Rylak[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=160003 domain=wod]
 
 						[img icon=ability_hunter_pet_sporebat width=32 float=left] [color=c3]Sporebat[/color]
@@ -691,29 +697,29 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[table width=100%]
 				[tr]
 					[td width=50% valign=top]
-						[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [icon name=ability_druid_catform]Feral[/icon]
+						[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [span tooltip=feral][icon name=ability_druid_catform]&nbsp;[/icon][/span]
 						[spell=17007 domain=wod] 
 
 						[img icon=class_mage width=32 float=left] [color=c8]Mage[/color]
 						[spell=1459 domain=wod]/[spell=61316 domain=wod]
 
-						[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [icon name=spell_monk_brewmaster_spec]Brewmaster[/icon] [icon name=spell_monk_windwalker_spec]Windwalker[/icon]
+						[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [span tooltip=brewmaster][icon name=spell_monk_brewmaster_spec]&nbsp;[/icon][/span] [span tooltip=windwalker][icon name=spell_monk_windwalker_spec]&nbsp;[/icon][/span]
 						[spell=116781 domain=wod]
 					[/td]
 					[td width=50% valign=top]
-						[img icon=ability_hunter_pet_devilsaur width=32 float=left] [color=c3]Devilsaur[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_devilsaur width=32 float=left] [color=c3]Devilsaur[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=90309 domain=wod]
 
-						[img icon=achievement_moguraid_01 width=32 float=left] [color=c3]Quilen[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=achievement_moguraid_01 width=32 float=left] [color=c3]Quilen[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=126373 domain=wod]
 
 						[img icon=ability_hunter_pet_raptor width=32 float=left] [color=c3]Raptor[/color]
 						[spell=160052 domain=wod]
 
-						[img icon=ability_hunter_pet_spider width=32 float=left] [color=c3]Shale Spider[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_spider width=32 float=left] [color=c3]Shale Spider[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=90363 domain=wod]
 
-						[img icon=inv_pet_waterstrider width=32 float=left] [color=c3]Waterstrider[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=inv_pet_waterstrider width=32 float=left] [color=c3]Waterstrider[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=126309 domain=wod]
 
 						[img icon=ability_hunter_pet_wolf width=32 float=left] [color=c3]Wolf[/color]
@@ -730,11 +736,11 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[table width=100%]
 				[tr]
 					[td width=50% valign=top]
-						[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [icon name=spell_monk_windwalker_spec]Windwalker[/icon]
+						[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [span tooltip=windwalker][icon name=spell_monk_windwalker_spec]&nbsp;[/icon][/span]
 						[spell=166916 domain=wod]
 
-						[img icon=class_priest width=32 float=left] [color=c5]Priest[/color] [icon name=spell_shadow_shadowwordpain]Shadow[/icon]
-						[url=spell=15473][icon name=spell_shadow_shadowform][/icon][/url][spell=49868 domain=wod]
+						[img icon=class_priest width=32 float=left] [color=c5]Priest[/color] [span tooltip=Shadow][icon name=spell_shadow_shadowwordpain]&nbsp;[/icon][/span]
+						[url=spell=15473][icon name=spell_shadow_shadowform]&nbsp;[/icon][/url][spell=49868 domain=wod]
 
 						[img icon=class_rogue width=32 float=left] [color=c4]Rogue[/color]
 						[spell=113742 domain=wod]
@@ -746,10 +752,10 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[img icon=ability_hunter_pet_crocolisk width=32 float=left] [color=c3]Basilisk[/color]
 						[spell=159733 domain=wod]
 						
-						[img icon=ability_hunter_pet_chimera width=32 float=left] [color=c3]Chimaera[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_chimera width=32 float=left] [color=c3]Chimaera[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=54644 domain=wod]
 						
-						[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=58604 domain=wod]
 
 						[img icon=ability_hunter_pet_dragonhawk width=32 float=left] [color=c3]Dragonhawk[/color]
@@ -758,7 +764,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[img icon=ability_hunter_aspectofthefox width=32 float=left] [color=c3]Fox[/color]
 						[spell=160011 domain=wod]
 
-						[img icon=ability_hunter_pet_rhino width=32 float=left] [color=c3]Rhino[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_rhino width=32 float=left] [color=c3]Rhino[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=57386 domain=wod]
 
 						[img icon=ability_hunter_pet_windserpent width=32 float=left] [color=c3]Wind Serpent[/color]
@@ -775,11 +781,11 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[table width=100%]
 				[tr]
 					[td width=50% valign=top]
-						[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [icon name=spell_deathknight_bloodpresence]Blood[/icon]
+						[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [span tooltip=blood][icon name=spell_deathknight_bloodpresence]&nbsp;[/icon][/span]
 						[spell=155522 domain=wod]
 						
-						[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [icon name=talentspec_druid_balance]Balance[/icon]
-						[url=spell=24858][icon name=spell_nature_forceofnature][/icon][/url][spell=24907 domain=wod]
+						[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [span tooltip=balance][icon name=talentspec_druid_balance]&nbsp;[/icon][/span]
+						[url=spell=24858][icon name=spell_nature_forceofnature]&nbsp;[/icon][/url][spell=24907 domain=wod]
 
 						[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color]
 						[spell=19740 domain=wod]
@@ -794,7 +800,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[img icon=trade_archaeology_whitehydrafigurine width=32 float=left] [color=c3]Hydra[/color]
 						[spell=160039 domain=wod]
 
-						[img icon=ability_druid_primalprecision width=32 float=left] [color=c3]Spirit Beast[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_druid_primalprecision width=32 float=left] [color=c3]Spirit Beast[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=128997 domain=wod]
 
 						[img icon=ability_hunter_pet_tallstrider width=32 float=left] [color=c3]Tallstrider[/color]
@@ -819,14 +825,14 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 
 						[br][br]
 						[img icon=inv_misc_armorkit_17 width=32 float=left] [color=q7]Leatherworking ([b]25%[/b])[/color]
-						[url=item=102351][icon name=inv_misc_drum_05][/icon][/url][spell=146555 domain=wod]
+						[url=item=102351][icon name=inv_misc_drum_05]&nbsp;[/icon][/url][spell=146555 domain=wod]
 
 					[/td]
 					[td width=50% valign=top]
 						[img icon=ability_hunter_pet_netherray width=32 float=left] [color=c3]Nether Ray[/color]
 						[spell=160452 domain=wod]
 
-						[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=90355 domain=wod]
 					[/td]
 				[/tr]
@@ -840,13 +846,13 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 			[table width=100%]
 				[tr]
 					[td width=50% valign=top]
-						[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color] [icon name=ability_warrior_savageblow]Arms[/icon] [icon name=ability_warrior_innerrage]Fury[/icon]
+						[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color] [span tooltip=arms][icon name=ability_warrior_savageblow]&nbsp;[/icon][/span] [span tooltip=fury][icon name=ability_warrior_innerrage]&nbsp;[/icon][/span]
 						[spell=12294 domain=wod] [spell=100130 domain=wod]
 
 						[img icon=class_rogue width=32 float=left] [color=c4]Rogue[/color]
 						[spell=8679 domain=wod]
 
-						[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [icon name=spell_monk_windwalker_spec]Windwalker[/icon]
+						[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [span tooltip=windwalker][icon name=spell_monk_windwalker_spec]&nbsp;[/icon][/span]
 						[spell=107428 domain=wod]
 
 						[img icon=class_warlock width=32 float=left] [color=c9]Warlock[/color]
@@ -856,7 +862,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 						[img icon=ability_hunter_pet_crocolisk width=32 float=left] [color=c3]Crocolisk[/color]
 						[spell=159936 domain=wod]
 
-						[img icon=ability_hunter_pet_devilsaur width=32 float=left] [color=c3]Devilsaur[/color] [span tooltip=beast_mastery][img icon=ability_hunter_beastmastery width=16 border=0][/span]
+						[img icon=ability_hunter_pet_devilsaur width=32 float=left] [color=c3]Devilsaur[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 						[spell=54680 domain=wod]
 
 						[img icon=ability_druid_ferociousbite width=32 float=left] [color=c3]Riverbeast[/color]
@@ -872,20 +878,7 @@ If you are looking for [b]Raid Cooldowns[/b] I recommend [url=/guide=1876]this g
 [/div]
 
 
-[br][br]
-[h2]Official blog post[/h2]
-[quote "Mists of Pandaria Buff and Debuff Design" display=block blizzard=true url="http://us.battle.net/wow/en/blog/4574894"]
-The list only includes what we consider “traditional” buffs, such as Prayer of Fortitude. It doesn’t include utility like being great at snaring, battle rez, knock backs, high DPS while moving, and other mechanics. Those ultimately all factor into a raid or Battleground comp as well.
-
-The matrix is a little more complex than it appears. A paladin, for example, can only offer one Blessing at a time, while a warrior can only do one shout at a time. You can’t assume one character can cover every buff or debuff listed below at the same time.
-
-Some of these are active (you must cast them, like Prayer of Fortitude) while others are passive. Note that totems no longer bring passive buffs as a rule.
-
-You’ll see several categories consolidated or gone. Bleeds no longer made sense, since everyone who cared about bleeds already buffed themselves. Magical resistance we just removed from the game, though there are some abilities that provide magical damage reduction.
-
-We are still likely to use the design that hunters, especially Beastmaster hunters, can fill in for missing buffs or debuffs by using certain pets.
-[/quote]
-
-[br][br][br]
-[small]Added hunter pets (Thanks to [url=http://forums.wow-petopia.com/viewtopic.php?f=39&t=18086]Petopia[/url]). I picked some existing icons for the new families.[/small]
-See previously [img src=http://static.wowhead.com/images/icons/cata.gif border=0] Cataclysm Buffs and Debuffs [url=http://www.wowhead.com/forums&topic=180217]here[/url].
+[div clear=both]
+	[hr]
+	See previously [img src=http://static.wowhead.com/images/icons/cata.gif border=0] Cataclysm Buffs and Debuffs [url=http://www.wowhead.com/forums&topic=180217]here[/url].
+[div]
