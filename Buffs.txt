@@ -37,7 +37,7 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 [br][br]
 [h2][img src=http://wowimg.zamimg.com/images/icons/warlords.png border=0] Buffs[/h2]
 
-[tabs name="buffsWoD"]
+[tabs name="Primary"]
 	[tab name="Stats" icon="spell_nature_regeneration"]
 		[h3]Effect: +5% Strength, Agility, and Intellect[/h3]
 		[url=spell=20217&buff]Example[/url]
@@ -156,6 +156,73 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 		[/table]
 	[/tab]
 
+	[tab name="Burst Haste" icon="spell_nature_bloodlust"]
+		[h3]Effect: Temporary +30% Haste[/h3]
+		[url=spell=80353&buff]Example[/url]
+		[table width=100%]
+			[tr]
+				[td width=50% valign=top]
+					[img icon=class_mage width=32 float=left] [color=c8]Mage[/color]
+					[spell=80353]
+
+					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color]
+					[spell=2825]/[spell=32182]
+
+					[br][br]
+					[img icon=inv_misc_armorkit_17 width=32 float=left] [color=q7]Leatherworking ([b]25%[/b])[/color]
+					[url=item=102351][icon name=inv_misc_drum_05]&nbsp;[/icon][/url][spell=146555]
+
+					[/td]
+					[td width=50% valign=top]
+					[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=90355]
+
+					[img icon=ability_hunter_pet_netherray width=32 float=left] [color=c3]Nether Ray[/color]
+					[spell=160452]
+				[/td]
+			[/tr]
+		[/table]
+	[/tab]
+	
+		[tab name="Mastery" icon="spell_holy_greaterblessingofkings"]
+		[h3]Effect: +550 Mastery[/h3]
+		[url=spell=116956&buff]Example[/url]
+		[table width=100%]
+			[tr]
+				[td width=50% valign=top]
+					[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [span tooltip=blood][icon name=spell_deathknight_bloodpresence]&nbsp;[/icon][/span]
+					[spell=155522]
+						
+					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [span tooltip=balance][icon name=talentspec_druid_balance]&nbsp;[/icon][/span]
+					[url=spell=24858][icon name=spell_nature_forceofnature]&nbsp;[/icon][/url][spell=24907]
+
+					[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color]
+					[spell=19740]
+
+					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color]
+					[spell=116956]
+				[/td]
+				[td width=50% valign=top]
+					[img icon=ability_hunter_pet_cat width=32 float=left] [color=c3]Cat[/color]
+					[spell=93435]
+
+					[img icon=trade_archaeology_whitehydrafigurine width=32 float=left] [color=c3]Hydra[/color]
+					[spell=160039]
+
+					[img icon=ability_druid_primalprecision width=32 float=left] [color=c3]Spirit Beast[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
+					[spell=128997]
+
+					[img icon=ability_hunter_pet_tallstrider width=32 float=left] [color=c3]Tallstrider[/color]
+					[spell=160073]
+				[/td]
+			[/tr]
+		[/table]
+	[/tab]
+[/tabs]
+
+[br][br][br]
+
+[tabs name="Secondary"]
 	[tab name="Haste" icon="ability_rogue_disembowel"]
 		[h3]Effect: +5% Haste[/h3]
 		[url=spell=55610&buff]Example[/url]
@@ -190,7 +257,7 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 			[/tr]
 		[/table]
 	[/tab]
-
+	
 	[tab name="Critical Strike" icon="spell_nature_unyeildingstamina"]
 		[h3]Effect: +5% Critical Strike Chance[/h3]
 		[url=spell=24604&buff]Example[/url]
@@ -228,42 +295,7 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 			[/tr]
 		[/table]
 	[/tab]
-
-	[tab name="Mastery" icon="spell_holy_greaterblessingofkings"]
-		[h3]Effect: +550 Mastery[/h3]
-		[url=spell=116956&buff]Example[/url]
-		[table width=100%]
-			[tr]
-				[td width=50% valign=top]
-					[img icon=class_deathknight width=32 float=left] [color=c6]Death Knight[/color] [span tooltip=blood][icon name=spell_deathknight_bloodpresence]&nbsp;[/icon][/span]
-					[spell=155522]
-						
-					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [span tooltip=balance][icon name=talentspec_druid_balance]&nbsp;[/icon][/span]
-					[url=spell=24858][icon name=spell_nature_forceofnature]&nbsp;[/icon][/url][spell=24907]
-
-					[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color]
-					[spell=19740]
-
-					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color]
-					[spell=116956]
-				[/td]
-				[td width=50% valign=top]
-					[img icon=ability_hunter_pet_cat width=32 float=left] [color=c3]Cat[/color]
-					[spell=93435]
-
-					[img icon=trade_archaeology_whitehydrafigurine width=32 float=left] [color=c3]Hydra[/color]
-					[spell=160039]
-
-					[img icon=ability_druid_primalprecision width=32 float=left] [color=c3]Spirit Beast[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
-					[spell=128997]
-
-					[img icon=ability_hunter_pet_tallstrider width=32 float=left] [color=c3]Tallstrider[/color]
-					[spell=160073]
-				[/td]
-			[/tr]
-		[/table]
-	[/tab]
-
+	
 	[tab name="Multistrike" icon="inv_elemental_mote_air01"]
 		[h3]Effect: +5% Multistrike Chance[/h3]
 		[url=spell=49868&buff]Example[/url]
@@ -301,7 +333,7 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 			[/tr]
 		[/table]
 	[/tab]
-		
+	
 	[tab name="Versatility" icon="spell_holy_mindvision"]
 		[h3]Effect: +3% Versatility[/h3]
 		[url=spell=167188&buff]Example[/url]
@@ -345,35 +377,7 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 			[/tr]
 		[/table]
 	[/tab]
-
-	[tab name="Burst Haste" icon="spell_nature_bloodlust"]
-		[h3]Effect: Temporary +30% Haste[/h3]
-		[url=spell=80353&buff]Example[/url]
-		[table width=100%]
-			[tr]
-				[td width=50% valign=top]
-					[img icon=class_mage width=32 float=left] [color=c8]Mage[/color]
-					[spell=80353]
-
-					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color]
-					[spell=2825]/[spell=32182]
-
-					[br][br]
-					[img icon=inv_misc_armorkit_17 width=32 float=left] [color=q7]Leatherworking ([b]25%[/b])[/color]
-					[url=item=102351][icon name=inv_misc_drum_05]&nbsp;[/icon][/url][spell=146555]
-
-					[/td]
-					[td width=50% valign=top]
-					[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
-					[spell=90355]
-
-					[img icon=ability_hunter_pet_netherray width=32 float=left] [color=c3]Nether Ray[/color]
-					[spell=160452]
-				[/td]
-			[/tr]
-		[/table]
-	[/tab]
-
+	
 	[tab name="Mortal Wounds" icon="ability_criticalstrike"]
 		[h3]Effect: -25% Healing Received (Debuff)[/h3]
 		[url=spell=8680&buff]Example[/url]
@@ -411,4 +415,5 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 			[/tr]
 		[/table]
 	[/tab]
+	
 [/tabs]
