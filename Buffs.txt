@@ -82,10 +82,10 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 			[tr]
 				[td width=50% valign=top]
 					[img icon=class_priest width=32 float=left] [color=c5]Priest[/color]
-					[spell=21562 ]
+					[spell=21562]
 
 					[img icon=class_warlock width=32 float=left] [color=c9]Warlock[/color]
-					[spell=166928 ]
+					[spell=166928]
 
 					[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color]
 					[spell=469]
@@ -268,7 +268,7 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 					[spell=17007] 
 
 					[img icon=class_mage width=32 float=left] [color=c8]Mage[/color]
-					[spell=1459/[spell=61316]
+					[spell=1459]/[spell=61316]
 
 					[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [span tooltip=brewmaster][icon name=spell_monk_brewmaster_spec]&nbsp;[/icon][/span] [span tooltip=windwalker][icon name=spell_monk_windwalker_spec]&nbsp;[/icon][/span]
 					[spell=116781]
