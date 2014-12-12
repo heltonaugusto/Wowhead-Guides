@@ -53,6 +53,9 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 
 					[img icon=class_paladin width=32 float=left] [color=c2]Paladin[/color]
 					[spell=20217]
+					
+					[img icon=class_hunter width=32 float=left] [color=c3]Hunter[/color]
+					[spell=160206]
 
 					[br][br]
 					[img icon=inv_misc_armorkit_17 width=32 float=left] [color=q7]Leatherworking ([b]4%[/b])[/color]
@@ -89,6 +92,9 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 
 					[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color]
 					[spell=469]
+					
+					[img icon=class_hunter width=32 float=left] [color=c3]Hunter[/color]
+					[spell=160199]
 
 					[br][br]
 					[img icon=inv_inscription_tradeskill01 width=32 float=left] [color=q7]Inscription ([b]8%[/b])[/color]
@@ -141,6 +147,10 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 
 					[img icon=class_warlock width=32 float=left] [color=c9]Warlock[/color]
 					[spell=109773]
+					
+					[img icon=class_hunter width=32 float=left] [color=c3]Hunter[/color]
+					[spell=160205]
+					
 				[/td]
 				[td width=50% valign=top]
 					[img icon=spell_nature_guardianward width=32 float=left] [color=c3]Serpent[/color]
@@ -201,6 +211,9 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 
 					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color]
 					[spell=116956]
+					
+					[img icon=class_hunter width=32 float=left] [color=c3]Hunter[/color]
+					[spell=160198]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_cat width=32 float=left] [color=c3]Cat[/color]
@@ -240,6 +253,9 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 
 					[img icon=class_shaman width=32 float=left] [color=c7]Shaman[/color]
 					[spell=116956]
+					
+					[img icon=class_hunter width=32 float=left] [color=c3]Hunter[/color]
+					[spell=160203]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_hyena width=32 float=left] [color=c3]Hyena[/color]
@@ -272,6 +288,9 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 
 					[img icon=class_monk width=32 float=left] [color=c10]Monk[/color] [span tooltip=brewmaster][icon name=spell_monk_brewmaster_spec]&nbsp;[/icon][/span] [span tooltip=windwalker][icon name=spell_monk_windwalker_spec]&nbsp;[/icon][/span]
 					[spell=116781]
+					
+					[img icon=class_hunter width=32 float=left] [color=c3]Hunter[/color]
+					[spell=160200]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_devilsaur width=32 float=left] [color=c3]Devilsaur[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
@@ -313,6 +332,9 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 						
 					[img icon=class_warlock width=32 float=left] [color=c9]Warlock[/color]
 					[spell=109773]
+					
+					[img icon=class_hunter width=32 float=left] [color=c3]Hunter[/color]
+					[spell=172968]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_bat width=32 float=left] [color=c3]Bat[/color]
@@ -351,6 +373,9 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 
 					[img icon=class_warrior width=32 float=left] [color=c1]Warrior[/color] [span tooltip=arms][icon name=ability_rogue_eviscerate]&nbsp;[/icon][/span] [span tooltip=fury][icon name=ability_warrior_innerrage]&nbsp;[/icon][/span]
 					[spell=167188]
+					
+					[img icon=class_hunter width=32 float=left] [color=c3]Hunter[/color]
+					[spell=172967]
 				[/td]
 				[td width=50% valign=top]
 					[img icon=ability_hunter_pet_owl width=32 float=left] [color=c3]Bird of Prey[/color]
