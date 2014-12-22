@@ -281,7 +281,7 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 			[tr]
 				[td width=50% valign=top]
 					[img icon=class_druid width=32 float=left] [color=c11]Druid[/color] [span tooltip=feral][icon name=ability_druid_catform]&nbsp;[/icon][/span]
-					[spell=17007] 
+					[spell=24932] 
 
 					[img icon=class_mage width=32 float=left] [color=c8]Mage[/color]
 					[spell=1459]/[spell=61316]
