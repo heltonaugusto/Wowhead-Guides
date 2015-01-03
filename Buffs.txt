@@ -343,7 +343,7 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 					[img icon=ability_hunter_pet_bat width=32 float=left] [color=c3]Bat[/color]
 					[spell=50519]
 
-					[img icon=inv_clefthoofdraenormount_blue width=32 float=left] [color=c3]Clefthoof[/color]
+					[img icon=inv_clefthoofdraenormount_blue width=32 float=left] [color=c3]Clefthoof[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 					[spell=57386]
 
 					[img icon=ability_hunter_pet_corehound width=32 float=left] [color=c3]Core Hound[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
@@ -387,7 +387,7 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 					[img icon=ability_hunter_pet_boar width=32 float=left] [color=c3]Boar[/color]
 					[spell=35290]
 
-					[img icon=inv_clefthoofdraenormount_blue width=32 float=left] [color=c3]Clefthoof[/color]
+					[img icon=inv_clefthoofdraenormount_blue width=32 float=left] [color=c3]Clefthoof[/color] [span tooltip=beast_mastery][icon name=ability_hunter_beastmastery]&nbsp;[/icon][/span]
 					[spell=57386]
 
 					[img icon=inv_pet_porcupine width=32 float=left] [color=c3]Porcupine[/color]
