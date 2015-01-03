@@ -3,6 +3,9 @@
 	[ul]
 		[li][url=/user=Senka]Senka[/url][/li]
 	[/ul]
+	[ul]
+		[li][url=/user=Zaborik]Zaborik[/url][/li]
+	[/ul]
 	[img src=http://wowimg.zamimg.com/uploads/guide/images/3876.jpg height=200]
 [/quote]
 
@@ -180,7 +183,7 @@ I welcome any suggestions/corrections in comments and at [url=https://github.com
 
 					[br][br]
 					[img icon=inv_misc_armorkit_17 width=32 float=left] [color=q7]Leatherworking ([b]25%[/b])[/color]
-					[url=item=102351][icon name=inv_misc_drum_05]&nbsp;[/icon][/url][spell=146555]
+					[url=item=120257][icon name=inv_misc_drum_01]&nbsp;[/icon][/url][spell=178207]
 
 					[/td]
 					[td width=50% valign=top]
